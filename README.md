@@ -53,7 +53,6 @@ struct Date
 namespace lab1::date
 {
 
-bool is_leap(int year);
 int days_in_month(int year, int m);
 bool is_valid(Date d);
 
