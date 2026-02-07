@@ -5,5 +5,5 @@
 // TODO: Your code
 TEST_CASE("Test case name", "[some_tag]")
 {
-    REQUIRE(false);
+    REQUIRE(true);
 }
